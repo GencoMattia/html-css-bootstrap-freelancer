@@ -8,7 +8,7 @@
     background-color: #1abc9c;
 }
 
-.bg-dark {
+.bg-light-dark {
     background-color: #3a546d;
 }
 
@@ -22,4 +22,12 @@
 
 button {
     border: white solid 1px;
+}
+
+input {
+    border: none;
+}
+
+textarea {
+    border: none;
 }
