@@ -19,3 +19,7 @@
 .font-white {
     color: white;
 }
+
+button {
+    border: white solid 1px;
+}
