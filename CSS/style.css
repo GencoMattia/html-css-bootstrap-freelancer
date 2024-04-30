@@ -39,3 +39,16 @@ textarea {
 .navbar-toggler {
     border-color: white;
 }
+
+.social-icons > a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3.5rem;
+    height: 3.5rem;
+    border: white solid 1px;
+    border-radius: 100%;
+    font-size: 1.2rem;
+}
