@@ -31,3 +31,11 @@ input {
 textarea {
     border: none;
 }
+
+.navbar-nav > .nav-item > .nav-link {
+    color: white;
+}
+
+.navbar-toggler {
+    border-color: white;
+}
